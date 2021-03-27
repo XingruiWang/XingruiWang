@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Qingyong's github stats](https://github-readme-stats.vercel.app/api?username=XingruiWang&show_icons=true&count_private=true&theme=prussian)
+[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QingyongHu&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+✉ Email: qingyong.hu@cs.ox.ac.uk
+
+✧ Website: https://qingyonghu.github.io/
+
+✧ Google Scholar: https://scholar.google.com/citations?user=yboFNHEAAAAJ&hl=en
