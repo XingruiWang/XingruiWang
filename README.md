@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XingruiWang))
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XingruiWang&hide=JupyterNotebook))
 
 ✉ Email: qingyong.hu@cs.ox.ac.uk
 
