@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Qingyong's github stats](https://github-readme-stats.vercel.app/api?username=XingruiWang&show_icons=true&count_private=true&theme=prussian)
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QingyongHu&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XingruiWang))
 
 ✉ Email: qingyong.hu@cs.ox.ac.uk
 
