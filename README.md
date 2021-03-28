@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=XingruiWang&show_icons=true&count_private=true&theme=Gradient)
+![](https://github-readme-stats.vercel.app/api?username=XingruiWang&show_icons=true&count_private=true&theme=calm)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XingruiWang&hide=Jupyter%20Notebook&langs_count=5&layout=compact&theme=Gradient)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XingruiWang&hide=Jupyter%20Notebook&langs_count=5&layout=compact&theme=calm)
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XingruiWang&theme=Gradient)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XingruiWang&theme=calm)
 
 ✉ Email: XingrWang@gmail.com
 
