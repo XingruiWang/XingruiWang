@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XingruiWang&hide=Jupyter%20Notebook&langs_count=5&layout=compact&theme=calm)
 
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XingruiWang&theme=calm)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xingruiwang&theme=calm)
 
 ✉ Email: XingrWang@gmail.com
 
