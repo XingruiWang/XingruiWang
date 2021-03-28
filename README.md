@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![](https://github-readme-stats.vercel.app/api?username=XingruiWang&show_icons=true&count_private=true&theme=calm&card_width=3)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XingruiWang&hide=Jupyter%20Notebook&langs_count=5&layout=compact&theme=calm&card_width=3)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XingruiWang&hide=Jupyter%20Notebook&langs_count=5&layout=compact&theme=calm&card_width=8)
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xingruiwang&theme=calm&card_width=3)
 
