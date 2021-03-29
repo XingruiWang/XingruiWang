@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there， this is Xingrui. 👋
 
 <!--
 **XingruiWang/XingruiWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=XingruiWang&show_icons=false&count_private=true&theme=default&title_color=227c9d)
+<!--![](https://github-readme-stats.vercel.app/api?username=XingruiWang&show_icons=false&count_private=true&theme=default&title_color=227c9d)-->
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XingruiWang&hide=Jupyter%20Notebook&langs_count=5&layout=compact&theme=default&title_color=227c9d)
+<!--![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XingruiWang&hide=Jupyter%20Notebook&langs_count=5&layout=compact&theme=default&title_color=227c9d)-->
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XingruiWang&theme=default&title_color=227c9d)
 
 
 
-✉ Email: XingrWang@gmail.com
+<!--✉ Email: XingrWang@gmail.com-->
 
