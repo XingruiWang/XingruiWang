@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <!--![](https://github-readme-stats.vercel.app/api?username=XingruiWang&show_icons=false&count_private=true&theme=default&title_color=227c9d)-->
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XingruiWang&hide=Jupyter%20Notebook&langs_count=5&theme=default&title_color=227c9d)
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XingruiWang&hide=Jupyter%20Notebook&langs_count=5&theme=default&title_color=227c9d&layout=compact)
 
 ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=XingruiWang&theme=default&title_color=227c9d)
 
