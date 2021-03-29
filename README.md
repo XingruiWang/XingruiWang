@@ -15,10 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### About
+
 - 📫 How to reach me: XingrWang@gmail.com
 
 - 😄 Main interest: AI, Computer Vision, Machine Learning ...
 
+### Status
 
 <!--![](https://github-readme-stats.vercel.app/api?username=XingruiWang&show_icons=false&count_private=true&theme=default&title_color=227c9d)-->
 
