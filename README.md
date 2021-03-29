@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### About
-
 - 📫 How to reach me: XingrWang@gmail.com
 
 - 😄 Main interest: AI, Computer Vision, Machine Learning ...
