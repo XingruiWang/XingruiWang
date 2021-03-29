@@ -1,4 +1,4 @@
-### Hi there， this is Xingrui. 👋
+### Hi there, this is Xingrui. 👋
 
 <!--
 **XingruiWang/XingruiWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
