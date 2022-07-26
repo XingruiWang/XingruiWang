@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 - 😄 Main interest: AI, Computer Vision, Machine Learning ...
 
+- 👯 Know more about me: [https://xingruiwang.github.io/](https://xingruiwang.github.io/)
 ### Status
 
 <!--![](https://github-readme-stats.vercel.app/api?username=XingruiWang&show_icons=false&count_private=true&theme=default&title_color=227c9d)-->
