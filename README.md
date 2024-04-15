@@ -30,5 +30,3 @@ Here are some ideas to get you started:
 
 <!--![Wakatime stats in last 7 days](https://github-readme-stats.vercel.app/api/wakatime?username=XingruiWang&theme=default&title_color=227c9d))-->
 
-
-![](//www.clustrmaps.com/map_v2.png?d=OX_lbVzLMI55QUv2faFEAPYipaEmJv7dZpEAAXxKYYo&cl=ffffff)
